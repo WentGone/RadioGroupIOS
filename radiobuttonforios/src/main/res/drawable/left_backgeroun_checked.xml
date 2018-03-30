@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:bottomLeftRadius="@dimen/radiogroup_map_radius"
+        android:topLeftRadius="@dimen/radiogroup_map_radius"/>
+    <solid android:color="#1d76f3" />
+</shape>
